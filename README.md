@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:kushagrasingh334@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/kavyakushagrasingh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github">
+  <a href="https://github.com/kavyakushagra007">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 - 🌱 Currently learning **Spring Boot**
 - 🚀 Interested in **Backend Development**
 - 🤝 Open to collaborating on Java / Spring Boot projects
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **kushagrasingh334@gmail.com**
 
 ---
 
@@ -79,16 +79,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kavyakushagra007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakushagra007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyakushagra007&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyakushagra007&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -96,13 +96,13 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavyakushagra007&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kavyakushagra007&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile — feel free to explore my repositories!</i></p>
