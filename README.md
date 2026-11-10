@@ -78,9 +78,5 @@ I'm always interested in connecting with developers, exchanging ideas, and learn
 ---
 
 <p align="center">
-  <b>Building. Learning. Improving. One commit at a time. 🚀</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
+  <b>Building. Learning. Improving. 🚀</b>
 </p>
